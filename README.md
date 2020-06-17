@@ -16,4 +16,4 @@ In this Project we studied the churning  rate of Fintech company .
 
 
 ## Result
-<p> we successfully classified the subscription or customers based on their previous activities </p>
+<p> we successfully classified the subscription of customers based on their previous activities </p>
