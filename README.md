@@ -9,11 +9,11 @@ In this Project we studied the churning  rate of Fintech company .
 <p> &#187 scikit-learn  </p>
 
 
-##summary
+## summary
 <p> in this project we used different supervised machine learnig Algorithms as : SVM, LOgistic Regression, Random forest,
   (These are the classification Algorithms )
 </p>
 
 
-##Result
+## Result
 <p> we successfully classified the subscription or customers based on their previous activities </p>
